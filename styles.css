@@ -3,11 +3,13 @@ h1 {
     font-optical-sizing: auto;
     font-style: normal;
 }
-.navbar-brand svg {
-    width: 30px;
-    height: 24px;
-    display: block; 
-    fill: #7363a5; 
+.navbar-brand {
+    svg {
+        width: 30px;
+        height: 24px;
+        display: block; 
+        fill: #7363a5; 
+    }
 }
 
 h2, h5 {
